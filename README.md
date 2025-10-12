@@ -1,10 +1,8 @@
 #  **Welcome to Kai's Digital Naphouse 💤 **
 
 <p align="center">
-   <p align="center">
-  <img src="https://raw.githubusercontent.com/k149191/my-profile/main/images/Snoopy.jpg" width="300"/> 
+  <img src="https://raw.githubusercontent.com/k149191/k149191/main/images/Snoppy.jpg" alt="Snoopy in his natural habitat: sleeping on the doghouse." width="300"/> 
 </p>
-  </p>
 
 The name's **Kai**, and my whole existence is giving **Platypus energy**, no cap. I'm here doing a lot, but I'm just gonna be real, none of it is really *hitting different* (yet). 
 
