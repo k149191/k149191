@@ -1,7 +1,7 @@
-# ** Welcome to Kai's Digital Naphouse 💤 **
+#  **Welcome to Kai's Digital Naphouse 💤 **
 
 <p align="center">
-   <img src="URL_SNOOPY_TIDUR_DI_ATAS_RUMAH" alt="Snoopy in his natural habitat: sleeping on the doghouse." width="300"/> 
+   Snoppy.jpg
   </p>
 
 The name's **Kai**, and my whole existence is giving **Platypus energy**, no cap. I'm here doing a lot, but I'm just gonna be real, none of it is really *hitting different* (yet). 
