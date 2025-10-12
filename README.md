@@ -1,4 +1,4 @@
-#  **Welcome to Kai's Digital Naphouse 💤 **
+#  Welcome to Kai's Digital Naphouse 💤
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/k149191/k149191/main/images/Snoppy.jpg" alt="Snoopy in his natural habitat: sleeping on the doghouse." width="300"/> 
