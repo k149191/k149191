@@ -10,5 +10,5 @@ I'm embracing the **mediocre** life not S-tier, not trash, just chillin' in the 
 
 My biggest flex? I'm a permanent **Live-Long Learner** because every mistake is just a new tutorial, you feel me? And when I’m not coding, my main passion is **snoozing** 😴. Seriously, if Snoopy can nap on his doghouse, I can nap anywhere. So yeah, I'm just here for the vibes, trying to grow, and definitely not stressed.
 
-> **"Keep looking up… that's the secret of life. But first, let me take a five-hour nap."**
+> **"Keep looking up… that's the secret of life. But first, let me take a eight-hour nap."**
 > — *the Sleepy Platypus.*
