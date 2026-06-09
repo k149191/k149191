@@ -125,7 +125,6 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## GitHub Activity
 <div align="center">
   <h1 style="font-size: 28px;">Github Activity</h1>
 </div>
