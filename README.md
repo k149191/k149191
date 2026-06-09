@@ -15,14 +15,17 @@ I'm a permanent **Live-Long Learner** because every mistake is just a new tutori
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=k149191&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k149191&layout=compact&theme=gruvbox&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=k149191&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=k149191&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+## WakaTime Profile
+
+<a href="https://wakatime.com/@khairunisaprilia">
+  <img src="https://wakatime.com/badge/user/khairunisaprilia.svg" />
+</a>
 
 </div>
 
