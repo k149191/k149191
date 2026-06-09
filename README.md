@@ -14,7 +14,9 @@
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## Profile Selection
+<div align="center">
+  <h1 style="font-size: 28px;">Profile Selection</h1>
+</div>
 
 <table align="center">
 <tr>
@@ -48,7 +50,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## Tech Garden
+<div align="center">
+  <h1 style="font-size: 28px;">Tech Garden</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -71,7 +75,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## Current Quests Log
+<div align="center">
+  <h1 style="font-size: 28px;">Current Quests Log</h1>
+</div>
 
 - Learning in Framework Laravel Applications
 - Progressing in Flutter Development
@@ -82,7 +88,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## Featured Projects
+<div align="center">
+  <h1 style="font-size: 28px;">Featured Projects</h1>
+</div>
 
 <table align="center">
   <tr>
@@ -118,6 +126,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
 </p>
 
 ## GitHub Activity
+<div align="center">
+  <h1 style="font-size: 28px;">Github Activity</h1>
+</div>
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=k149191&theme=rose-pine&hide_border=true" />
@@ -131,7 +142,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
 </p>
 
-## WakaTime Activity
+<div align="center">
+  <h1 style="font-size: 28px;">Wakatime Activity</h1>
+</div>
 
 <p align="center">
   <img src="https://github.com/k149191/k149191/blob/main/images/codinggirl.gif?raw=true" width="180">
@@ -147,7 +160,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=2500&color=C9A9A6&center=true&vCenter=true&width=600&height=25&lines=Tracking+Coding+Hours...;One+Commit+At+A+Time;Learning+Never+Stops" />
 </p>
 
-## Spotify Activity
+<div align="center">
+  <h1 style="font-size: 28px;">Spotify Activity</h1>
+</div>
 
 <div align="center">
 
