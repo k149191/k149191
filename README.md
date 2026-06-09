@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/github/followers/k149191?style=for-the-badge&color=D9897E&labelColor=3F4F44&label=Followers" alt="GitHub followers" />
 </p>
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
 ## Profile Selection
 
@@ -42,7 +44,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
 
 > Not S-tier, not trash, just chillin' in the mid-lane. A permanent **Live-Long Learner** because every mistake is simply another tutorial.
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
 ## Tech Garden
 
@@ -63,16 +67,20 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
-## Current Quests
+## Current Quests Log
 
 - Learning in Framework Laravel Applications
 - Progressing in Flutter Development
 - UI/UX Design 
 - Expanding Portfolio Project
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
 ## Featured Projects
 
@@ -96,8 +104,8 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
     </td>
     <td width="33%" align="center" valign="top">
       <strong>Flutter Learning Projects</strong><br><br>
-      <a href="https://github.com/k149191/flutter-learning-projects">
-        <img src="https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=300&auto=format&fit=crop&q=60" width="100%" style="border-radius: 6px;" alt="Flutter Learning Projects"/>
+      <a href="https://github.com/PA-opinicteam/Opini-Kopi">
+        <img src="https://github.com/k149191/k149191/blob/main/images/opinikopi.png?raw=true" width="100%" style="border-radius: 6px;" alt="Flutter Learning Projects"/>
       </a>
       <br><br>
       <sub>Personal learning projects using Flutter and Dart.</sub>
@@ -105,7 +113,9 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   </tr>
 </table>
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
 ## GitHub Activity
 
@@ -117,9 +127,15 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=k149191&theme=rose-pine&hide_border=true&radius=12" />
 </p>
 
----
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
-## WakaTime
+## WakaTime Activity
+
+<p align="center">
+  <img src="https://github.com/k149191/k149191/blob/main/images/codinggirl.gif?raw=true" width="180">
+</p>
 
 <p align="center">
   <a href="https://wakatime.com/@khairunisaprilia">
@@ -127,7 +143,21 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=2500&color=C9A9A6&center=true&vCenter=true&width=600&height=25&lines=Tracking+Coding+Hours...;One+Commit+At+A+Time;Learning+Never+Stops" />
+</p>
+
+## Spotify Activity
+
+<div align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=elujwqz6hbj90eoqjox004bbo&unique=true" />
+
+</div>
+
+<p align="center">
+  ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=C9A9A6&center=true&vCenter=true&width=400&height=30&lines=Gotta+go...+time+to+take+a+nap" />
