@@ -21,11 +21,7 @@ I'm a permanent **Live-Long Learner** because every mistake is just a new tutori
 
 <div align="center">
 
-## WakaTime Profile
-
-<a href="https://wakatime.com/@khairunisaprilia">
-  <img src="https://wakatime.com/badge/user/khairunisaprilia.svg" />
-</a>
+[![WakaTime](https://wakatime.com/badge/user/khairunisaprilia.svg)](https://wakatime.com/@khairunisaprilia)
 
 </div>
 
