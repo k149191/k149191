@@ -159,15 +159,6 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=2500&color=C9A9A6&center=true&vCenter=true&width=600&height=25&lines=Tracking+Coding+Hours...;One+Commit+At+A+Time;Learning+Never+Stops" />
 </p>
 
-<div align="center">
-  <h1 style="font-size: 28px;">Spotify Activity</h1>
-</div>
-
-<div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=elujwqz6hbj90eoqjox004bbo&unique=true" />
-
-</div>
 
 <p align="center">
   ✦ • · • ─────────────────────────────────────────────────────── • · • ✦
