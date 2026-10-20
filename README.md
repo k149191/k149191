@@ -79,8 +79,8 @@ Quotes    : Keep looking up... that's the secret of life. And life goes on.
   <h1 style="font-size: 28px;">Current Quests Log</h1>
 </div>
 
-- Learning in Framework Laravel Applications
-- Progressing in Flutter Development
+- Learning in Full Stack Developer
+- Cohort Full-Stack Asah Dicoding 2026 
 - UI/UX Design 
 - Expanding Portfolio Project
 
